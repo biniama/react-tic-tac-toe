@@ -1,3 +1,6 @@
+#REACT JS Example - Tic Tac Toe Game
+I followed the following tutorial: https://reactjs.org/tutorial/tutorial.html
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
